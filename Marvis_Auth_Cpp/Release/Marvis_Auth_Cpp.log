@@ -1,0 +1,19 @@
+﻿  Marvis_Auth_NativeDlg.cpp
+Source Files\Marvis_Auth_NativeDlg.cpp(49): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
+Source Files\Marvis_Auth_NativeDlg.cpp(208): warning C4239: nonstandard extension used : 'argument' : conversion from 'ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>' to 'CString &'
+          A non-const reference may only be bound to an lvalue
+Source Files\Marvis_Auth_NativeDlg.cpp(383): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+Source Files\Marvis_Auth_NativeDlg.cpp(569): warning C4101: 'strQuality2' : unreferenced local variable
+Source Files\Marvis_Auth_NativeDlg.cpp(569): warning C4101: 'strQuality1' : unreferenced local variable
+Source Files\Marvis_Auth_NativeDlg.cpp(569): warning C4101: 'strTimeout' : unreferenced local variable
+Source Files\Marvis_Auth_NativeDlg.cpp(854): warning C4239: nonstandard extension used : 'argument' : conversion from 'ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>' to 'CString &'
+          A non-const reference may only be bound to an lvalue
+Source Files\Marvis_Auth_NativeDlg.cpp(957): warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+Source Files\Marvis_Auth_NativeDlg.cpp(1207): warning C4239: nonstandard extension used : 'argument' : conversion from 'ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>' to 'CString &'
+          A non-const reference may only be bound to an lvalue
+Source Files\Marvis_Auth_NativeDlg.cpp(1212): warning C4239: nonstandard extension used : 'argument' : conversion from 'ATL::CStringT<wchar_t,StrTraitMFC_DLL<wchar_t,ATL::ChTraitsCRT<wchar_t>>>' to 'CString &'
+          A non-const reference may only be bound to an lvalue
+Source Files\Marvis_Auth_NativeDlg.cpp(1291): warning C4100: 'lParam' : unreferenced formal parameter
+  Marvis_Auth_Cpp.vcxproj -> D:\Current_Work\msp0045_native_windows\Win32\Release\Marvis_Auth_Cpp.exe

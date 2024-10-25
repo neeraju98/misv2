@@ -1,0 +1,1 @@
+Emp_ID,PWM_Value,Mean,stddev,Blur,Texture,Status,Max High Texture,Min High Texture,Max low Texture,Min low Texture,texture_circle,texture_framecount,texture_iriscount,average_textureff,max_texture_iris_count,max_high_meanvalue,min_high_meanvalue,max_low_meanvalue,min_low_meanvalue,average_high_mean,average_low_mean,iris_mean,pupil_mean

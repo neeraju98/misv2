@@ -1,0 +1,168 @@
+﻿  stdafx.cpp
+  mobile_spoof.cpp
+Source Files\mobile_spoof.cpp(89): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+Source Files\mobile_spoof.cpp(149): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+Source Files\mobile_spoof.cpp(335): warning C4244: '=' : conversion from 'float' to 'unsigned char', possible loss of data
+Source Files\mobile_spoof.cpp(420): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+  DllMain.cpp
+d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\MSP0045CommLib.h(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  CommonCore.cpp
+d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\MSP0045CommLib.h(20): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+Source Files\CommonCore.cpp(309): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+Source Files\CommonCore.cpp(346): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(525): warning C4101: 'mean' : unreferenced local variable
+Source Files\CommonCore.cpp(1012): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\time.inl(112) : see declaration of 'localtime'
+Source Files\CommonCore.cpp(1016): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(356) : see declaration of 'sprintf'
+Source Files\CommonCore.cpp(1247): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(1248): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(1466): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _strdup. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(245) : see declaration of 'strdup'
+Source Files\CommonCore.cpp(1515): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+Source Files\CommonCore.cpp(1523): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(253) : see declaration of 'stricmp'
+Source Files\CommonCore.cpp(1584): warning C4102: 'loop_add_ftr' : unreferenced label
+Source Files\CommonCore.cpp(1575): warning C4102: 'loop_des_ftr' : unreferenced label
+Source Files\CommonCore.cpp(1490): warning C4101: 'ifile0' : unreferenced local variable
+Source Files\CommonCore.cpp(1490): warning C4101: 'p2' : unreferenced local variable
+Source Files\CommonCore.cpp(1490): warning C4101: 'p1' : unreferenced local variable
+Source Files\CommonCore.cpp(1490): warning C4101: 'ifile1' : unreferenced local variable
+Source Files\CommonCore.cpp(1718): warning C4101: 'num_features_entries' : unreferenced local variable
+Source Files\CommonCore.cpp(1868): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\stdio.h(211) : see declaration of 'fopen'
+Source Files\CommonCore.cpp(1892): warning C4267: '=' : conversion from 'size_t' to 'long', possible loss of data
+Source Files\CommonCore.cpp(1898): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(1900): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(1926): warning C4244: '=' : conversion from 'double' to 'unsigned char', possible loss of data
+Source Files\CommonCore.cpp(1907): warning C4101: 'r' : unreferenced local variable
+Source Files\CommonCore.cpp(2003): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2025): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2078): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2083): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2131): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2132): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2133): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2140): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2271): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2329): warning C4244: '/=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2337): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2338): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2339): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2615): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2791): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2799): warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2903): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2911): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2926): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2927): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2928): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2933): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2934): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2935): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2953): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2957): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2963): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(2979): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(2983): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3004): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3006): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3007): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3008): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3032): warning C4313: 'fprintf'  : '%d' in format string conflicts with argument 29 of type 'FILE *'
+Source Files\CommonCore.cpp(3180): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3187): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3196): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3197): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3198): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3203): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3204): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3205): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3221): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3225): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3234): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3251): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3255): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Source Files\CommonCore.cpp(3277): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3279): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3280): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3281): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+Source Files\CommonCore.cpp(3649): warning C4018: '<=' : signed/unsigned mismatch
+Source Files\CommonCore.cpp(3850): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+Source Files\CommonCore.cpp(4077): warning C4273: 'MARVIS_Auth_UninitDevice' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(184) : see previous definition of 'MARVIS_Auth_UninitDevice'
+Source Files\CommonCore.cpp(4111): warning C4273: 'MARVIS_Auth_InitDevice' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(169) : see previous definition of 'MARVIS_Auth_InitDevice'
+Source Files\CommonCore.cpp(4406): warning C4273: 'MARVIS_Auth_IsDeviceConnected' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(178) : see previous definition of 'MARVIS_Auth_IsDeviceConnected'
+Source Files\CommonCore.cpp(4454): warning C4273: 'MARVIS_Auth_StopCapture' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(268) : see previous definition of 'MARVIS_Auth_StopCapture'
+Source Files\CommonCore.cpp(4528): warning C4273: 'MARVIS_Auth_StartCapture' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(237) : see previous definition of 'MARVIS_Auth_StartCapture'
+Source Files\CommonCore.cpp(4655): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\string.h(112) : see declaration of 'strcpy'
+Source Files\CommonCore.cpp(4728): warning C4273: 'MARVIS_Auth_AutoCapture_RD' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(250) : see previous definition of 'MARVIS_Auth_AutoCapture_RD'
+Source Files\CommonCore.cpp(4924): warning C4273: 'MARVIS_Auth_AutoCapture' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(261) : see previous definition of 'MARVIS_Auth_AutoCapture'
+Source Files\CommonCore.cpp(5142): warning C4273: 'MARVIS_Auth_GetImage' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(278) : see previous definition of 'MARVIS_Auth_GetImage'
+Source Files\CommonCore.cpp(5269): warning C4273: 'MARVIS_Auth_MatchIrisData' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(280) : see previous definition of 'MARVIS_Auth_MatchIrisData'
+Source Files\CommonCore.cpp(5323): warning C4273: 'MARVIS_Auth_GetDeviceList' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(311) : see previous definition of 'MARVIS_Auth_GetDeviceList'
+Source Files\CommonCore.cpp(5370): warning C4273: 'MARVIS_Auth_GetSupportedDeviceList' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(321) : see previous definition of 'MARVIS_Auth_GetSupportedDeviceList'
+Source Files\CommonCore.cpp(5412): warning C4273: 'MARVIS_Auth_EnableLogs' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(294) : see previous definition of 'MARVIS_Auth_EnableLogs'
+Source Files\CommonCore.cpp(5468): warning C4273: 'MARVIS_Auth_GetErrDescription' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(287) : see previous definition of 'MARVIS_Auth_GetErrDescription'
+Source Files\CommonCore.cpp(5571): warning C4273: 'MARVIS_Auth_GetVersion' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(301) : see previous definition of 'MARVIS_Auth_GetVersion'
+Source Files\CommonCore.cpp(5686): warning C4273: 'MARVIS_Auth_RegisterDetectionCallback' : inconsistent dll linkage
+          d:\current_work\iris\misv2\marvis_auth_core_vc\header files\..\Header Files\Marvis_Auth.h(204) : see previous definition of 'MARVIS_Auth_RegisterDetectionCallback'
+  NativeLogger.cpp
+  Generating Code...
+  MR014_MIS100V2_Windows_Auth_IPL.lib(ipl.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+     Creating library D:\Current_Work\Iris\misv2\x64\Release\Marvis_Auth_Core.lib and object D:\Current_Work\Iris\misv2\x64\Release\Marvis_Auth_Core.exp
+  Generating code
+  Finished generating code
+DllMain.obj : warning LNK4049: locally defined symbol MARVIS_Auth_UninitDevice imported
+DllMain.obj : warning LNK4049: locally defined symbol MARVIS_Auth_EnableLogs imported
+DllMain.obj : warning LNK4049: locally defined symbol MARVIS_Auth_GetVersion imported
+MR014_MIS100V2_Windows_Auth_IPL.lib(ipl.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MR014_MIS100V2_Windows_Auth_IPL.lib(ipl.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MR014_MIS100V2_Windows_Auth_IPL.lib(ReadEEPROM.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MR014_MIS100V2_Windows_Auth_IPL.lib(ReadEEPROM.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MR014_MIS100V2_Windows_Auth_IPL.lib(Quality.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MR014_MIS100V2_Windows_Auth_IPL.lib(Quality.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MR014_MIS100V2_Windows_Auth_IPL.lib(fileio.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MR014_MIS100V2_Windows_Auth_IPL.lib(fileio.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MR014_MIS100V2_Windows_Auth_IPL.lib(CheckExtractor.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MR014_MIS100V2_Windows_Auth_IPL.lib(CheckExtractor.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MR014_MIS100V2_Windows_Auth_IPL.lib(CheckUSB.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MR014_MIS100V2_Windows_Auth_IPL.lib(CheckUSB.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MR014_MIS100V2_Windows_Auth_IPL.lib(License.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MR014_MIS100V2_Windows_Auth_IPL.lib(License.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+PositionDetect.lib(PositionDetect.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'PositionDetect.lib(PositionDetect.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+PositionDetect.lib(stdafx.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'PositionDetect.lib(stdafx.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MSP0045CommLib_REL.lib(Logger.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MSP0045CommLib_REL.lib(Logger.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MSP0045CommLib_REL.lib(CommonUtils.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MSP0045CommLib_REL.lib(CommonUtils.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MSP0045CommLib_REL.lib(MatisDeviceHandlerCore.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MSP0045CommLib_REL.lib(MatisDeviceHandlerCore.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+MSP0045CommLib_REL.lib(MSP0045CommLib.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'MSP0045CommLib_REL.lib(MSP0045CommLib.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(bio.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(bio.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(cio.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(cio.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(compress.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(compress.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(convert.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(convert.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(dwt.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(dwt.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(event.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(event.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(image.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(image.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(j2k.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(j2k.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(j2k_lib.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(j2k_lib.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(jp2.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(jp2.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(jpt.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(jpt.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(mct.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(mct.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(mqc.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(mqc.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(openjpeg.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(openjpeg.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(pi.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(pi.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(raw.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(raw.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(t1.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(t1.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(t2.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(t2.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(tcd.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(tcd.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+JPEG2KEncoder_Decoder.lib(tgt.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'JPEG2KEncoder_Decoder.lib(tgt.obj)' or at 'D:\Current_Work\Iris\misv2\x64\Release\vc120.pdb'; linking object as if no debug info
+  Marvis_Auth_Core_VC.vcxproj -> D:\Current_Work\Iris\misv2\x64\Release\Marvis_Auth_Core.dll
